@@ -10,5 +10,15 @@
 - ````
   !pip install pandas
   ````
+## Tips
+You can modify the query to:
+- Search by hashtag: `#AI`
+- Filter by user: `from:elonmusk`
+- Exclude retweets: `-is:retweet`
+- Filter by language: `lang:en`
+- Filter by date: (only supported via `start_time` and `end_time` params)
+
+## Project Structure
+![image](https://github.com/user-attachments/assets/e6607092-9b5a-4121-84a8-dd5bfc33dbdb)
 
   
